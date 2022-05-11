@@ -1,0 +1,3 @@
+https://docs.microsoft.com/en-us/azure/active-directory-b2c/secure-api-management?tabs=app-reg-ga
+https://blogs.sap.com/2018/02/05/deep-dive-8-with-sap-s4hana-cloud-sdk-leverage-principal-propagation-via-oauth-2-when-consuming-a-business-api-from-s4hana-cloud/
+
